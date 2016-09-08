@@ -78,7 +78,6 @@ if let fastMovies = movies["The Fast and the Furious"] {
 }
 
 
-
 // DELETING KEY/VALUE PAIRS
 
 movies["The Fast and the Furious"] = nil
